@@ -1,4 +1,4 @@
-Project 1 Digital Skola
+# Python Object Oriented Programming Simulation
 
 A Project 1 was an implementation of the Python concept, namely Object Oriented Programming, known as OOP. Coach Muhammad Singgih Prastio was the mentor of this project, he managed project tasks and taught line by line streamingly. These are the following tasks:
 
